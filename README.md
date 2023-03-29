@@ -1,6 +1,6 @@
 # 🖍️ Shaik's Scriblle
 
-Try it out at [coming soon](https://github.com)
+Try it out at [Vercel Live](https://shaik-scribble-game.vercel.app/)
 
 ## How it works
 
